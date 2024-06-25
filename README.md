@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meetdixit
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning Flutter development
+- 👀 I’m interested in website and application development
+- 🌱 I’m currently learning react js, nodejs. next.js development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Follow me on Instagram @whostryker @meetdixit
 
